@@ -1,6 +1,6 @@
 sudo: required
 language: csharp
-solution: src/SampleHelloWorldWeb.sln
+solution: src/HelloWorld.sln
 services:
   - docker
 matrix:
