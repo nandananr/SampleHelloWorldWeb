@@ -5,7 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Hosting;
 
-namespace SampleHelloWorldWeb
+namespace HelloWorld
 {
     public class Program
     {
